@@ -1,6 +1,6 @@
-owner=525060572597714986
-prefix=$
-game=$play|$help|by Ahmed DoDo#6075
+owner=408028251731001354
+prefix=1
+game=Bot By Yassa | 1help
 stayinchannel=true
 songinstatus=false
-token=NTU0MzA4MzgzNjE3MDU2Nzcw.D2avjg.KCS13lRjAct86go93U1mJVpxXaA
+token=NTc5ODUyNDM2OTI4MzMxNzg1.XOfuwA.m1GRsjQqPINIEStO3j8JTEY2nKY
